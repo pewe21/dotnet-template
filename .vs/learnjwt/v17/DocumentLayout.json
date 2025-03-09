@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotNet\\learnjwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\models\\dtouserregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\models\\dtouserregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\models\\dtouserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\models\\dtouserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|e:\\dotnet\\learnjwt\\learnjwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870F1682-770E-4E18-A239-CEFC31FBEC9A}|learnjwt\\learnjwt.csproj|solutionrelative:learnjwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtoUserRegister.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Models\\DtoUserRegister.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Models\\DtoUserRegister.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Models\\DtoUserRegister.cs",
+              "RelativeToolTip": "learnjwt\\Models\\DtoUserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:34:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "learnjwt\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:41:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtoUserLogin.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Models\\DtoUserLogin.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Models\\DtoUserLogin.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Models\\DtoUserLogin.cs",
+              "RelativeToolTip": "learnjwt\\Models\\DtoUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:40:59.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\BookController.cs",
+              "RelativeToolTip": "learnjwt\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:36:53.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "learnjwt\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:33:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\appsettings.json",
+              "RelativeDocumentMoniker": "learnjwt\\appsettings.json",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\appsettings.json",
+              "RelativeToolTip": "learnjwt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T09:30:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotNet\\learnjwt\\learnjwt\\Program.cs",
+              "RelativeDocumentMoniker": "learnjwt\\Program.cs",
+              "ToolTip": "E:\\dotNet\\learnjwt\\learnjwt\\Program.cs",
+              "RelativeToolTip": "learnjwt\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:09:33.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

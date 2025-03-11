@@ -230,3 +230,4 @@ E:\dotNet\learnjwt\learnjwt\obj\Debug\net9.0\learnjwt.pdb
 E:\dotNet\learnjwt\learnjwt\obj\Debug\net9.0\learnjwt.genruntimeconfig.cache
 E:\dotNet\learnjwt\learnjwt\obj\Debug\net9.0\ref\learnjwt.dll
 E:\dotNet\learnjwt\learnjwt\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dotNet\learnjwt\learnjwt\obj\Debug\net9.0\learnjwt.sourcelink.json

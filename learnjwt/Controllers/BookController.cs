@@ -2,7 +2,6 @@
 using learnjwt.Models;
 using learnjwt.Models.Entity;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
